@@ -6,3 +6,5 @@
 6. [Feature selección para otras variables:](Udla10.ipynb) Se utiliza Random Forest para determinar otras variables que puedan ayudar al modelo univariado.
 7. [Creación de un modelo LSTM multivariado:](Udla11.ipynb) Se utilizan las variables seleccionadas para crear un modelo LSTM multivariado.
 8. [Gráfico interactivo de resultados:](./Udla17.ipynb) Se utilizan los mejores modelos obtenidos para predecir el conjunto de test y comparar sus resultados.
+9. [Modelo ARMA para mid term prediction:](./Udla13.ipynb) Se utiliza un modelo ARMA para predecir promedios semanales.
+10. [Modelo AR para mid term predictions con LSTM univariado:](./Udla13_5.ipynb) Se utiliza un modelo AR para predecir promedios semanales.
